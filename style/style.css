@@ -180,7 +180,7 @@ header button{
 }
 .pricing-section {
   text-align: center;
-  padding: 80px 20px;
+  padding: 80px 100px;
   background-color: #ffffff;
   color: #2c2c2c;
 }
@@ -200,7 +200,7 @@ header button{
 .card {
   background-color: #f7f7f7;
   padding: 30px;
-  width: 280px;
+  width: 200px;
   border-radius: 10px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
   transition: transform 0.3s ease;
@@ -518,8 +518,8 @@ header button{
   }
 
   .titu {
-    width: 100%;
-    margin: 30px auto;
+    
+    margin: 20px auto;
     padding: 10px;
     text-align: center;
     font-size: 1.2em;
